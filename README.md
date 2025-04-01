@@ -13,6 +13,15 @@ Link to the LOGO project in [Figma](<https://www.figma.com/design/zrqTCB8Azl7KMQ
 ## Installation & Usage
 ### Running from source:
 1. Clone the repository:
-   ```sh
+```sh
    git clone https://github.com/YOUR_GITHUB_USERNAME/QRGenerator.git
    cd QRGen
+```
+2. Install dependencies:
+```sh
+  pip install -r requirements.txt
+```
+3. For development and packaging:
+```sh
+   pip install -r requirements-dev.txt
+```
