@@ -16,7 +16,7 @@ Link to the LOGO project in [Figma](<https://www.figma.com/design/zrqTCB8Azl7KMQ
 1. Clone the repository:
 ```sh
    git clone https://github.com/YOUR_GITHUB_USERNAME/QRGenerator.git
-   cd QRGen
+   cd QRGenerator
 ```
 2. Install dependencies:
 ```sh
