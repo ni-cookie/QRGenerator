@@ -1,4 +1,5 @@
 # QRGenerator
+![QRGenLOGO](images/QRGenLOGO_512x512.png)
 
 QRGen is a simple and user-friendly QR code generator built with Python and `customtkinter`. It allows users to generate QR codes from text or URLs and save them as PNG or SVG files.
 
